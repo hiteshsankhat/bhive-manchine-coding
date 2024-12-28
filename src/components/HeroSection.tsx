@@ -5,7 +5,7 @@ const HeroSection = () => {
         className="relative z-10 flex flex-col md:flex-row-reverse items-center text-center p-8 md:p-16 md:px-20 max-w-7xl mx-auto"
       >
         <video
-          src="/src/assets/hero-section-video.mp4"
+          src="video/hero-section-video.mp4"
           autoPlay
           muted
           loop

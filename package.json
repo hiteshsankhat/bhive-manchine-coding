@@ -1,6 +1,6 @@
 {
   "name": "bhive-manchine-coding",
-  "homepage": "https://github.com/hiteshsankhat/bhive-manchine-coding/",
+  "homepage": "https://hiteshsankhat.github.io/bhive-manchine-coding/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "hg-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",

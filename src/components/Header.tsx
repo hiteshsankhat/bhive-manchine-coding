@@ -6,7 +6,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto flex justify-between min-h-[72px] px-5 py-5 md:px-28 md:py-6">
         <a href="/" className="flex items-center">
           <img
-            src={"/src/assets/header-logo.svg"}
+            src={"images/header-logo.svg"}
             alt="Logo"
             className="h-8 w-auto md:h-10"
           />

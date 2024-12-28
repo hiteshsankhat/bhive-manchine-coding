@@ -10,7 +10,7 @@ const DownloadSection: React.FC = () => {
         {/* Mobile Image Section */}
         <div className="flex justify-start items-center mb-6 lg:mb-0 lg:w-1/3">
           <img
-            src="/src/assets/mobile-app.png"
+            src="images/mobile-app.png"
             alt="Mobile Preview"
             className="w-full max-w-md"
           />
@@ -28,7 +28,7 @@ const DownloadSection: React.FC = () => {
               className="flex items-center bg-black text-white px-4 py-2 rounded-lg shadow-lg hover:bg-gray-800 transition"
             >
               <img
-                src="/src/assets/play-store.png" // Replace with Google Play button image
+                src="images/play-store.png"
                 alt="Google Play"
                 className="h-6"
               />
@@ -38,7 +38,7 @@ const DownloadSection: React.FC = () => {
               className="flex items-center bg-black text-white px-4 py-2 rounded-lg shadow-lg hover:bg-gray-800 transition"
             >
               <img
-                src="/src/assets/apple-store.png" // Replace with App Store button image
+                src="images/apple-store.png"
                 alt="App Store"
                 className="h-6"
               />
